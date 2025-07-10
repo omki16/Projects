@@ -9,7 +9,7 @@ import streamlit as st
 os.environ["OPENAI_API_KEY"] = openai_api_key
 
 #streamlit app title
-st.title("LangChain with OpenAI")
+st.title("Enter Company Name")
 input_text = st.text_input("Enter your text here:")
 
 # custom prompt template
