@@ -1,0 +1,2 @@
+openai_api_key = "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"
+HF_TOKEN = "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"
